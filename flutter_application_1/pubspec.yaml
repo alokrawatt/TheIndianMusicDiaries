@@ -40,10 +40,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  # flutter_launcher_icons: ^0.8.1
+  flutter_launcher_icons: ^0.8.1
 
   # flutter_icons:
-  # image_path: "assets/theindian.jpg"
+  # # image_path: "assets/images/theindian.jpg"
   # android: true
   # ios: true
 
